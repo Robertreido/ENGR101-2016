@@ -4,7 +4,7 @@ int main (){
 
 int number = 100;
 
-printf ( "%c" , number );
+printf ( "%n" , number );
 
 return 0;
 
